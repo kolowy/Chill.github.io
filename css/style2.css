@@ -215,7 +215,8 @@ header.nav-fixed .navbar-brand img {
 
 .start{
     
-    min-height: 70vh   
+    min-height: 70vh;
+    margin-top: 25vh
 }
 
 .badge-default {
